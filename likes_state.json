@@ -1,0 +1,32 @@
+{
+  "likes": 29,
+  "goal": 50,
+  "goalStep": 50,
+  "autoBumpGoal": true,
+  "rewardText": "LIKE GOAL",
+  "channelHandle": "@AvinashCreates",
+  "trackMode": "channel",
+  "youtubeUrl": "",
+  "videoId": "",
+  "isLive": false,
+  "apiKey": "",
+  "autoUpdate": true,
+  "pollInterval": 10,
+  "lastPolled": 1794181475,
+  "lastUpdated": null,
+  "status": "standby",
+  "statusMessage": "Waiting for @AvinashCreates to go live...",
+  "streamTitle": "",
+  "settings": {
+    "layout": "tower",
+    "theme": "youtube",
+    "icon": "thumb",
+    "soundEnabled": true,
+    "soundVolume": 0.5,
+    "scale": 100,
+    "showPercentage": false,
+    "showGoal": true,
+    "showRemaining": true,
+    "accentColor": "#ff0033"
+  }
+}

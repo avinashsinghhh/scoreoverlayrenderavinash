@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: stream-overlay-suite
+    env: python
+    plan: free
+    buildCommand: ""
+    startCommand: "python server.py"
+    envVars:
+      - key: PYTHONUNBUFFERED
+        value: "true"
